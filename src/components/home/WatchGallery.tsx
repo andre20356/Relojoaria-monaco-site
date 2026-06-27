@@ -6,7 +6,7 @@ import AnimatedSection from '@/components/ui/AnimatedSection'
 
 const galleryItems = [
   {
-    src: 'https://images.unsplash.com/photo-1523170335258-f87a2d58c4c6?auto=format&fit=crop&w=800&q=80',
+    src: 'https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&w=800&q=80',
     alt: 'Relógio clássico dourado',
     caption: 'Elegância Atemporal',
     span: 'col-span-1 row-span-2',
@@ -18,7 +18,7 @@ const galleryItems = [
     span: 'col-span-1 row-span-1',
   },
   {
-    src: 'https://images.unsplash.com/photo-1585533561153-8470eed10a3d?auto=format&fit=crop&w=800&q=80',
+    src: 'https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?auto=format&fit=crop&w=800&q=80',
     alt: 'Relógio esportivo',
     caption: 'Engenharia de Performance',
     span: 'col-span-1 row-span-1',

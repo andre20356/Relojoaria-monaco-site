@@ -27,7 +27,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="https://images.unsplash.com/photo-1587836374828-4ce87db7c5ab?auto=format&fit=crop&w=1920&q=90"
+          src="https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=1920&q=90"
           alt="Relógio de luxo Monaco"
           fill
           priority

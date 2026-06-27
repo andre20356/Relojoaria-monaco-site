@@ -17,7 +17,7 @@ export default function ColecoesPage() {
       <section className="relative pt-32 pb-20 overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="https://images.unsplash.com/photo-1523170335258-f87a2d58c4c6?auto=format&fit=crop&w=1920&q=80"
+            src="https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&w=1920&q=80"
             alt="Coleções Monaco"
             fill
             priority
