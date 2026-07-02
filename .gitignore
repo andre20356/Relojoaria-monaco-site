@@ -20,6 +20,10 @@
 # production
 /build
 
+# fotos de produtos enviadas pelo painel /admin (fica só no disco da VPS,
+# não faz sentido versionar binários de imagem no git)
+/uploads/
+
 # misc
 .DS_Store
 *.pem

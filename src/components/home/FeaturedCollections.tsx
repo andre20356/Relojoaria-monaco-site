@@ -4,10 +4,10 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { motion } from 'framer-motion'
 import { ArrowRight } from 'lucide-react'
-import { collections } from '@/lib/data'
+import { type Collection } from '@/lib/data'
 import AnimatedSection from '@/components/ui/AnimatedSection'
 
-export default function FeaturedCollections() {
+export default function FeaturedCollections({ collections }: { collections: Collection[] }) {
   return (
     <section className="py-24 md:py-32" style={{ backgroundColor: '#070706' }}>
       <div className="max-w-7xl mx-auto px-6">

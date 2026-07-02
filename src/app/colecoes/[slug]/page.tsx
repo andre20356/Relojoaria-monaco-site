@@ -2,13 +2,11 @@ import { notFound } from 'next/navigation'
 import Image from 'next/image'
 import Link from 'next/link'
 import { Star, ArrowLeft } from 'lucide-react'
-import { products, collections } from '@/lib/data'
+import { getProducts, getCollections } from '@/lib/products'
 import { formatPrice } from '@/lib/utils'
 import AnimatedSection from '@/components/ui/AnimatedSection'
 
-export function generateStaticParams() {
-  return collections.map((col) => ({ slug: col.slug }))
-}
+export const dynamic = 'force-dynamic'
 
 export async function generateMetadata({
   params,
@@ -16,7 +14,7 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>
 }) {
   const { slug } = await params
-  const collection = collections.find((c) => c.slug === slug)
+  const collection = getCollections().find((c) => c.slug === slug)
   if (!collection) return { title: 'Coleção não encontrada' }
   return {
     title: `${collection.name} | Relojoaria Monaco`,
@@ -30,10 +28,10 @@ export default async function CollectionPage({
   params: Promise<{ slug: string }>
 }) {
   const { slug } = await params
-  const collection = collections.find((c) => c.slug === slug)
+  const collection = getCollections().find((c) => c.slug === slug)
   if (!collection) notFound()
 
-  const collectionProducts = products.filter((p) => p.collection === collection.id)
+  const collectionProducts = getProducts().filter((p) => p.collection === collection.id)
 
   return (
     <div style={{ backgroundColor: '#070706', minHeight: '100vh' }}>

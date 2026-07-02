@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { Star, ArrowRight } from 'lucide-react'
-import { products, collections } from '@/lib/data'
+import { getProducts, getCollections } from '@/lib/products'
 import { formatPrice } from '@/lib/utils'
 import AnimatedSection from '@/components/ui/AnimatedSection'
 
@@ -10,7 +10,11 @@ export const metadata = {
   description: 'Explore nossa curadoria completa de relógios de luxo. Clássicos, Esportivos, Mergulho e Edições Limitadas.',
 }
 
+export const dynamic = 'force-dynamic'
+
 export default function ColecoesPage() {
+  const products = getProducts()
+  const collections = getCollections()
   return (
     <div style={{ backgroundColor: '#070706', minHeight: '100vh' }}>
       {/* Page Hero */}

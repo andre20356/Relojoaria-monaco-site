@@ -5,7 +5,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Star, ArrowRight } from 'lucide-react'
-import { products, type Product } from '@/lib/data'
+import { type Product } from '@/lib/data'
 import { formatPrice } from '@/lib/utils'
 import AnimatedSection from '@/components/ui/AnimatedSection'
 
@@ -163,7 +163,7 @@ function ProductCard({ product }: { product: Product }) {
   )
 }
 
-export default function ProductShowcase() {
+export default function ProductShowcase({ products }: { products: Product[] }) {
   const [activeTab, setActiveTab] = useState('Todos')
 
   const filtered = products.filter((p) => {

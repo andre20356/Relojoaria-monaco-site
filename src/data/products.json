@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1782995739727",
+    "name": "Datejust 41",
+    "slug": "datejust-41",
+    "brand": "Rolex",
+    "price": 45000,
+    "category": "Clássico",
+    "collection": "classicos",
+    "description": "O Datejust é o relógio que definiu o que significa ser um clássico atemporal. Nesta versão Rolesor, o contraste entre o aço Oystersteel e o ouro amarelo 18k confere sofisticação sem exageros — elegante o suficiente para o escritório, resistente o bastante para o dia a dia. O mostrador champagne com o bezel Fluted em ouro completa um visual que atravessa décadas sem perder relevância.",
+    "specs": {
+      "movement": "Automático Rolex Calibre 3235, Cronômetro Superlativo, reserva de marcha ~70h",
+      "case": "Aço Oystersteel e ouro amarelo 18k (Rolesor), 41mm, bezel Fluted em ouro",
+      "dial": "Champagne com índices aplicados e lupa Cyclops sobre a data",
+      "bracelet": "Pulseira Jubilee em aço e ouro amarelo 18k, fecho Oysterclasp",
+      "water_resistance": "100 metros (10 ATM)",
+      "functions": "Horas, minutos, segundos, calendário (data)"
+    },
+    "images": [
+      "/produtos/datejust-41/1782995739725_0.jpg"
+    ],
+    "rating": 5,
+    "reviews": 0,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "1782996442917",
+    "name": "Submariner Date 126619LB",
+    "slug": "submariner-date-126619lb",
+    "brand": "Rolex",
+    "price": 270000,
+    "category": "Mergulho",
+    "collection": "mergulho",
+    "description": "O Submariner é o relógio de mergulho mais reconhecido do mundo, e esta versão em ouro branco 18k eleva o ícone a outro patamar. O bezel de cerâmica Cerachrom azul contrasta com o mostrador preto — combinação apelidada de \"Cookie Monster\" pelos colecionadores — enquanto o peso e o brilho do ouro branco maciço deixam claro que este não é um mergulhador comum, e sim uma declaração de estilo com toda a robustez técnica que a Rolex é conhecida por entregar.",
+    "specs": {
+      "movement": "Automático Rolex Calibre 3235, Cronômetro Superlativo (COSC), reserva de marcha ~70h",
+      "case": "Ouro branco 18k, 41mm, coroa Triplock, fundo rosqueado, cristal de safira",
+      "dial": "Preto com índices Chromalight (luminescência azul), ponteiros Mercedes, janela de data às 3h com lente Cyclops",
+      "bracelet": "Pulseira Oyster em ouro branco 18k, fecho Oysterlock com extensão Glidelock",
+      "water_resistance": "300 metros (1000 ft) — certificado para mergulho",
+      "functions": "Horas, minutos, segundos, calendário instantâneo, parada de segundos (hack)"
+    },
+    "images": [
+      "/produtos/submariner-date-126619lb/1782996442917_0.jpg"
+    ],
+    "rating": 5,
+    "reviews": 0,
+    "inStock": true,
+    "featured": true
+  }
+]

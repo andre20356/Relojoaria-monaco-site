@@ -7,6 +7,9 @@ const config: NextConfig = {
       { protocol: 'https', hostname: 'picsum.photos' },
     ],
   },
+  turbopack: {
+    root: __dirname,
+  },
 }
 
 export default config
