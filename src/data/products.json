@@ -48,5 +48,55 @@
     "reviews": 0,
     "inStock": true,
     "featured": true
+  },
+  {
+    "id": "1782997071657",
+    "name": "Land-Dweller 127234",
+    "slug": "land-dweller-127234",
+    "brand": "Rolex",
+    "price": 130000,
+    "category": "Clássico",
+    "collection": "classicos",
+    "description": "O Land-Dweller é a primeira linha inteiramente nova da Rolex desde o Sky-Dweller em 2012 — e chega redefinindo o que se espera de um relógio de vestir. O mostrador em padrão colmeia (honeycomb) e a pulseira Jubilee integrada dão uma cara contemporânea a um relógio que, por baixo do visual, carrega o Calibre 7135: escape Dynapulse e espiral Syloxi em silício, tecnologia que a Rolex levou mais de uma década desenvolvendo. Disponibilidade extremamente limitada desde o lançamento — uma peça rara de se encontrar.",
+    "specs": {
+      "movement": "Automático Rolex Calibre 7135, escapamento Dynapulse, espiral Syloxi em silício, 36.000 A/h (5Hz), 39 rubis, reserva de marcha ~66h, Cronômetro Superlativo (COSC)",
+      "case": "Aço Oystersteel e ouro branco 18k (Rolesor Branco), 36mm, espessura 9,7mm, luneta canelada em ouro branco, coroa Twinlock, fundo transparente em safira",
+      "dial": "Branco intenso com padrão colmeia (honeycomb), índices aplicados em ouro branco, ponteiros Chromalight, data às 3h com lente Cyclops",
+      "bracelet": "Flat Jubilee integrada em aço Oystersteel, cinco fileiras de elos, fecho oculto Crownclasp",
+      "water_resistance": "100 metros (10 ATM)",
+      "functions": "Horas, minutos, segundos centrais, calendário com mudança instantânea, ajuste rápido de data, parada de segundos (hack)"
+    },
+    "images": [
+      "/produtos/land-dweller-127234/1782997071656_0.jpg"
+    ],
+    "rating": 5,
+    "reviews": 0,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "1782997430630",
+    "name": "Yacht-Master 40",
+    "slug": "yacht-master-40",
+    "brand": "Rolex",
+    "price": 75000,
+    "category": "Esportivo",
+    "collection": "esportivos",
+    "description": "Nascido nas regatas, o Yacht-Master carrega a robustez esportiva da Rolex com um toque de exclusividade que só a luneta em platina 950 entrega. O contraste entre o aço Oystersteel polido e o brilho fosco da platina, somado ao mostrador cinza grafite (rhodium) com o icônico \"YACHT-MASTER\" em azul, resulta num relógio versátil o bastante pra sair do iate direto pra uma reunião de negócios.",
+    "specs": {
+      "movement": "Automático Rolex Calibre 3235, Cronômetro Superlativo (COSC), reserva de marcha ~70h",
+      "case": "Oystersteel 904L, 40mm, espessura 11,6mm, luneta bidirecional em platina 950, coroa Twinlock, fundo rosqueado",
+      "dial": "Cinza grafite (rhodium) com índices Chromalight, ponteiros Mercedes, data às 3h com lente Cyclops",
+      "bracelet": "Pulseira Oyster em Oystersteel, fecho Oysterlock com sistema de ajuste rápido Easylink",
+      "water_resistance": "100 metros (10 ATM)",
+      "functions": "Horas, minutos, segundos centrais, calendário, ajuste rápido de data, parada de segundos (hack)"
+    },
+    "images": [
+      "/produtos/yacht-master-40/1782997430630_0.jpg"
+    ],
+    "rating": 5,
+    "reviews": 0,
+    "inStock": true,
+    "featured": true
   }
 ]
