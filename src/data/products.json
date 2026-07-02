@@ -98,5 +98,106 @@
     "reviews": 0,
     "inStock": true,
     "featured": true
+  },
+  {
+    "id": "1782997913062",
+    "name": "Drone",
+    "slug": "drone",
+    "brand": "Quiksilver",
+    "price": 690,
+    "category": "Esportivo",
+    "collection": "esportivos",
+    "description": "Feito pra sair da água e ir direto pra rua sem perder o ritmo. O Drone é o parceiro digital ideal pra quem vive entre o surf e o dia a dia — display digital robusto, cronômetro, alarme e resistência a 100 metros num visual despojado que carrega a personalidade da Quiksilver em cada detalhe.",
+    "specs": {
+      "movement": "Quartzo digital, display LCD com iluminação eletroluminescente (EL Backlight)",
+      "case": "Policarbonato de alta resistência, 49mm, fundo em aço inoxidável, vidro acrílico resistente",
+      "dial": "Display digital com calendário completo, dia da semana e formato 12/24h",
+      "bracelet": "Pulseira em silicone macio resistente a raios UV, 23mm, fivela em aço inoxidável de grau marítimo",
+      "water_resistance": "100 metros (10 ATM) — ideal para natação, surf e snorkeling (não indicado para mergulho com cilindro)",
+      "functions": "Horas, minutos, segundos, alarme, cronógrafo, temporizador (countdown)"
+    },
+    "images": [
+      "/produtos/drone/1782997913061_0.jpg"
+    ],
+    "rating": 5,
+    "reviews": 0,
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "1782999746743",
+    "name": "Formula 1 Senna Special Edition",
+    "slug": "formula-1-senna-special-edition",
+    "brand": "TAG Heuer",
+    "price": 28000,
+    "category": "Esportivo",
+    "collection": "esportivos",
+    "description": "Uma homenagem direta a um dos maiores pilotos da história, o Formula 1 Senna Special Edition carrega o amarelo icônico das cores de Ayrton Senna em cada detalhe — do bezel gravado com seu nome ao contraste no mostrador preto. Cronógrafo suíço de precisão com pegada esportiva, feito pra quem entende que alguns tributos não precisam de explicação.",
+    "specs": {
+      "movement": "Quartzo suíço de alta precisão, cronógrafo 1/10 de segundo, contador de 30 minutos",
+      "case": "Aço inoxidável escovado e polido, 43mm, fundo rosqueado com gravação especial Senna, cristal de safira antirreflexo",
+      "dial": "Preto com três submostradores, ponteiros e índices com Super-LumiNova, detalhes amarelos inspirados nas cores de Ayrton Senna, data entre 4 e 5 horas",
+      "bracelet": "Pulseira de borracha preta com interior texturizado, fecho de fivela em aço inoxidável",
+      "water_resistance": "200 metros (20 ATM)",
+      "functions": "Horas, minutos, pequenos segundos, cronógrafo, calendário, escala taquimétrica"
+    },
+    "images": [
+      "/produtos/formula-1-senna-special-edition/1782999746743_0.jpg"
+    ],
+    "rating": 5,
+    "reviews": 0,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "1783000078511",
+    "name": "GMT-Master II Pepsi Jubilee",
+    "slug": "gmt-master-ii-pepsi-jubilee",
+    "brand": "Rolex",
+    "price": 140000,
+    "category": "Esportivo",
+    "collection": "esportivos",
+    "description": "O apelido \"Pepsi\" já entrou pro vocabulário de qualquer entusiasta de relógios — e não é à toa. O contraste vermelho e azul do bezel Cerachrom sobre o mostrador preto é uma das combinações mais reconhecíveis da relojoaria. Nesta versão com pulseira Jubilee, ainda mais rara e cobiçada, o GMT-Master II une a funcionalidade de dois fusos horários simultâneos com um design que virou ícone cultural. Modelo descontinuado pela Rolex, disponibilidade cada vez mais restrita.",
+    "specs": {
+      "movement": "Automático Rolex Calibre 3285, escapamento Chronergy, Cronômetro Superlativo (COSC), reserva de marcha ~70h",
+      "case": "Oystersteel 904L, 40mm, coroa Triplock, cristal de safira com lente Cyclops sobre a data",
+      "dial": "Preto brilhante com marcadores em ouro branco 18k, display Chromalight, ponteiro GMT vermelho (24h), bezel Cerachrom bicolor azul/vermelho com graduação em platina",
+      "bracelet": "Pulseira Jubilee de cinco elos em Oystersteel, fecho Oysterlock com extensão Easylink (~5mm)",
+      "water_resistance": "100 metros (10 ATM)",
+      "functions": "Horas, minutos, segundos, segundo fuso horário (GMT) com ajuste independente, calendário com mudança instantânea"
+    },
+    "images": [
+      "/produtos/gmt-master-ii-pepsi-jubilee/1783000078509_0.jpg",
+      "/produtos/gmt-master-ii-pepsi-jubilee/1783000078510_1.jpg"
+    ],
+    "rating": 5,
+    "reviews": 0,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "1783000344228",
+    "name": "Carrera Sport Chronograph",
+    "slug": "carrera-sport-chronograph",
+    "brand": "TAG Heuer",
+    "price": 38000,
+    "category": "Esportivo",
+    "collection": "esportivos",
+    "description": "A Carrera nasceu nos anos 60 inspirada nas corridas mais perigosas do automobilismo, e essa versão Sport Chronograph mantém o espírito intacto com uma engenharia muito mais moderna. O calibre Heuer 02 de manufatura própria, com roda de colunas e embreagem vertical, entrega um acionamento do cronógrafo suave como poucos nessa faixa de preço — e as 80 horas de reserva de marcha, orgulhosamente estampadas no mostrador, garantem que ela nunca para no fim de semana.",
+    "specs": {
+      "movement": "Automático de manufatura Calibre Heuer 02, roda de colunas, embreagem vertical, 28.800 vibrações/hora, reserva de marcha 80h",
+      "case": "Aço inoxidável escovado e polido, 44mm, espessura 15,27mm, bezel de cerâmica preta com escala taquimétrica, cristal de safira abaulado com fundo também em safira",
+      "dial": "Preto com acabamento escovado circular, três submostradores (contador 30min, contador 12h, segundos contínuos), ponteiros ródio com Super-LumiNova, data às 6h",
+      "bracelet": "Aço inoxidável com elos em formato H, fecho dobrável com botões de segurança duplos",
+      "water_resistance": "100 metros (10 bar)",
+      "functions": "Horas, minutos, segundos centrais do cronógrafo, contador de 30 minutos, contador de 12 horas, segundos contínuos, data"
+    },
+    "images": [
+      "/produtos/carrera-sport-chronograph/1783000344227_0.jpg"
+    ],
+    "rating": 5,
+    "reviews": 0,
+    "inStock": true,
+    "featured": false
   }
 ]
